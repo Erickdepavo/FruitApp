@@ -1,0 +1,388 @@
+[
+  {
+    "label": "Apple",
+    "name": "Apple",
+    "color": "red",
+    "season": "fall",
+    "sunlight": 4,
+    "water": 3,
+    "funfact": "Apples are 25% air, which is why they float in water.",
+    "video": null,
+    "benefits": [
+      {
+        "symbol": "heart.fill",
+        "title": "Heart Health",
+        "description": "Apples may help reduce heart disease risks due to their fiber, flavonoids, and antioxidant properties."
+      },
+      {
+        "symbol": "drop.fill",
+        "title": "Hydration",
+        "description": "Apples are a good source of water, aiding in hydration."
+      },
+      {
+        "symbol": "shield.fill",
+        "title": "Provides Vitamin C",
+        "description": "Apples, rich in vitamin C, bolster the immune system and help ward off illnesses."
+      }
+    ],
+    "origin": {
+      "place": "Central Asia",
+      "latitude": 42.5,
+      "longitude": 74.5,
+      "span": 15
+    }
+  },
+  {
+    "label": "Banana",
+    "name": "Banana",
+    "color": "yellow",
+    "season": "none",
+    "sunlight": 5,
+    "water": 4,
+    "funfact": "Bananas are berries, while strawberries are not.",
+    "video": null,
+    "benefits": [
+      {
+        "symbol": "bolt.fill",
+        "title": "Energy Boost",
+        "description": "Bananas provide a quick energy boost due to their carbohydrate content."
+      },
+      {
+        "symbol": "heart.fill",
+        "title": "Heart Health",
+        "description": "High in potassium and fiber, bananas support heart health by maintaining healthy blood pressure levels and reducing the risk of stroke."
+      },
+      {
+        "symbol": "arrow.triangle.2.circlepath.circle.fill",
+        "title": "Better digestion",
+        "description": "Bananas, especially the ripe ones, are a good source of dietary fiber, promoting healthy digestion and preventing constipation."
+      }
+    ],
+    "origin": {
+      "place": "Southeast Asia",
+      "latitude": 10.0,
+      "longitude": 106.0,
+      "span": 15
+    }
+  },
+  {
+    "label": "Pear",
+    "name": "Pear",
+    "color": "green",
+    "season": "winter",
+    "sunlight": 4,
+    "water": 3,
+    "funfact": "Pears ripen from the inside out!",
+    "video": null,
+    "benefits": [
+      {
+        "symbol": "drop.fill",
+        "title": "Hydration",
+        "description": "Pears have high water content, making them hydrating."
+      },
+      {
+        "symbol": "heart.fill",
+        "title": "Heart Health",
+        "description": "The dietary fiber in pears helps lower bad cholesterol levels."
+      },
+      {
+        "symbol": "sun.max.fill",
+        "title": "Skin Health",
+        "description": "The vitamin C in pears promotes collagen production, leading to healthier skin!"
+      }
+    ],
+    "origin": {
+      "place": "Asia and Europe",
+      "latitude": 40.0,
+      "longitude": 50.0,
+      "span": 15
+    }
+  },
+  {
+    "label": "Orange",
+    "name": "Orange",
+    "color": "orange",
+    "season": "winter",
+    "sunlight": 5,
+    "water": 4,
+    "funfact": "Oranges are a hybrid, between the pomelo and mandarin.",
+    "video": "https://www.youtube.com/embed/m3_6zbeV0nU",
+    "benefits": [
+      {
+        "symbol": "shield.fill",
+        "title": "Immune Boost",
+        "description": "Oranges are rich in vitamin C, which helps in strengthening the immune system and fighting off illnesses."
+      },
+      {
+        "symbol": "heart.fill",
+        "title": "Heart Health",
+        "description": "The fiber, potassium, and vitamin C content in oranges support heart health."
+      },
+      {
+        "symbol": "eye.fill",
+        "title": "Vision Health",
+        "description": "Oranges are rich in carotenoids, which are converted to vitamin A and help improve vision!"
+      }
+    ],
+    "origin": {
+      "place": "Southeast Asia",
+      "latitude": 20.0,
+      "longitude": 105.0,
+      "span": 15
+    }
+  },
+  {
+    "label": "Grapes",
+    "name": "Grapes",
+    "color": "purple",
+    "season": "fall",
+    "sunlight": 4,
+    "water": 3,
+    "funfact": "When grapes are dried, they become raisins. It can take more than 4 pounds of grapes to produce just one pound of raisins.",
+    "video": "https://www.youtube.com/embed/0BZvbdqg9FE",
+    "benefits": [
+      {
+        "symbol": "heart.fill",
+        "title": "Heart Health",
+        "description": "Grapes, especially the red and purple ones, contain powerful antioxidants known as flavonoids, which can reduce the risk of heart disease."
+      },
+      {
+        "symbol": "brain",
+        "title": "Brain Health",
+        "description": "Resveratrol, a compound found in grapes, has been shown to boost cerebral blood flow and reduce the risk of Alzheimer’s disease."
+      },
+      {
+        "symbol": "shield.fill",
+        "title": "Antioxidant Rich",
+        "description": "Grapes are packed with antioxidants, including vitamin C and selenium, which can help protect the body from harmful free radicals."
+      }
+    ],
+    "origin": {
+      "place": "Near East",
+      "latitude": 38.0,
+      "longitude": 45.0,
+      "span": 15
+    }
+  },
+  {
+    "label": "Lemon",
+    "name": "Lemon",
+    "color": "green",
+    "season": "none",
+    "sunlight": 5,
+    "water": 4,
+    "funfact": "Due to their acidic juice, lemons can be used to conduct electricity, effectively serving as a natural battery.",
+    "video": "https://www.youtube.com/embed/CPOKDru-2ug",
+    "benefits": [
+      {
+        "symbol": "leaf.fill",
+        "title": "Alkalizing Effect",
+        "description": "Grapes, especially the red and purple ones, contain powerful antioxidants known as flavonoids, which can reduce the risk of heart disease."
+      },
+      {
+        "symbol": "shield.fill",
+        "title": "Vitamin C Boost",
+        "description": "Lemons are a great source of vitamin C, which is known to boost the immune system and skin health."
+      },
+      {
+        "symbol": "fork.knife.circle.fill",
+        "title": "Digestive Aid",
+        "description": "Lemon water can aid digestion and encourage the production of bile."
+      }
+    ],
+    "origin": {
+      "place": "Northeast India",
+      "latitude": 25.0,
+      "longitude": 90.0,
+      "span": 15
+    }
+  },
+  {
+    "label": "Watermelon",
+    "name": "Watermelon",
+    "color": "red",
+    "season": "summer",
+    "sunlight": 5,
+    "water": 5,
+    "funfact": "Every part of a watermelon is edible, including the rind. In some parts of the world, watermelon rind is pickled or stir-fried.",
+    "video": null,
+    "benefits": [
+      {
+        "symbol": "drop.fill",
+        "title": "Hydration",
+        "description": "Watermelons help in staying hydrated thanks to their high water content."
+      },
+      {
+        "symbol": "dumbbell.fill",
+        "title": "Muscle Recovery",
+        "description": "Watermelon contains an amino acid called citrulline, which may help reduce muscle soreness and improve recovery time following exercise."
+      },
+      {
+        "symbol": "face.smiling.inverse",
+        "title": "Skin and Hair Health",
+        "description": "Vitamin A in watermelon helps in the production and repair of skin cells."
+      }
+    ],
+    "origin": {
+      "place": "Southern Africa",
+      "latitude": -30.0,
+      "longitude": 25.0,
+      "span": 15
+    }
+  },
+  {
+    "label": "Grapefruit",
+    "name": "Grapefruit",
+    "color": "orange",
+    "season": "winter",
+    "sunlight": 5,
+    "water": 4,
+    "funfact": "Despite its name, the grapefruit is not related to grapes. It was named for the way it grows in clusters on trees, similar to grapes.",
+    "video": null,
+    "benefits": [
+      {
+        "symbol": "bolt.fill",
+        "title": "Energy Boost",
+        "description": "Grapefruits provide steady energy due to their low glycemic index."
+      },
+      {
+        "symbol": "heart.fill",
+        "title": "Heart Health",
+        "description": "Grapefruit can benefit heart health by reducing high blood pressure and cholesterol."
+      },
+      {
+        "symbol": "face.smiling.inverse",
+        "title": "Immune Support",
+        "description": "Rich in vitamin C, they help protect cells from harmful bacteria and viruses."
+      }
+    ],
+    "origin": {
+      "place": "Barbados",
+      "latitude": 13.1939,
+      "longitude": -59.5432,
+      "span": 15
+    }
+  },
+  {
+    "label": "Avocado",
+    "name": "Avocado",
+    "color": "green",
+    "season": "spring",
+    "sunlight": 3,
+    "water": 3,
+    "funfact": "An avocado is a berry, and the stone inside is its seed.",
+    "video": "https://www.youtube.com/embed/ZMjV7Y3nSzQ",
+    "benefits": [
+      {
+        "symbol": "brain",
+        "title": "Brain Health",
+        "description": "Rich in folate, avocados can support cognitive function."
+      },
+      {
+        "symbol": "heart.fill",
+        "title": "Heart Health",
+        "description": "High in monounsaturated fats, they promote healthy cholesterol levels."
+      },
+      {
+        "symbol": "shield.fill",
+        "title": "Antioxidants",
+        "description": "Contain lutein and zeaxanthin, antioxidants are beneficial for eye health."
+      }
+    ],
+    "origin": {
+      "place": "South Central Mexico",
+      "latitude": 19.4326,
+      "longitude": -99.1332,
+      "span": 15
+    }
+  },
+  {
+    "label": "Guava",
+    "name": "Guava",
+    "color": "pink",
+    "season": "fall",
+    "sunlight": 4,
+    "water": 3,
+    "funfact": "Guava leaves can be brewed as a tea and are believed to have medicinal properties.",
+    "video": null,
+    "benefits": [
+      {
+        "symbol": "shield.fill",
+        "title": "Immune Boost",
+        "description": "High in vitamin C, guavas support a strong immune system."
+      },
+      {
+        "symbol": "heart.fill",
+        "title": "Heart Health",
+        "description": "Rich in dietary fiber and vitamin C, guavas promote healthy heart function."
+      },
+      {
+        "symbol": "leaf.fill",
+        "title": "Skin Health",
+        "description": "Vitamin C in guavas aids in collagen production for vibrant skin."
+      }
+    ],
+    "origin": {
+      "place": "Central America",
+      "latitude": 15.7835,
+      "longitude": -90.2308,
+      "span": 15
+    }
+  },
+  {
+    "label": "Tomato",
+    "name": "Tomato",
+    "color": "red",
+    "season": "summer",
+    "sunlight": 5,
+    "water": 4,
+    "funfact": "Tomatoes are botanically a fruit, but they're legally considered a vegetable in the U.S. because of a Supreme Court decision in 1893.",
+    "video": null,
+    "benefits": [
+      {
+        "symbol": "shield.fill",
+        "title": "Cancer Prevention",
+        "description": "Lycopene in tomatoes is linked to reduce certain cancer risks."
+      },
+      {
+        "symbol": "heart.fill",
+        "title": "Heart Health",
+        "description": "Help in lowering bad cholesterol and maintaining blood pressure."
+      },
+      {
+        "symbol": "eye.fill",
+        "title": "Eye Health",
+        "description": "Contains nutrients that protect eye health and vision."
+      }
+    ],
+    "origin": {
+      "place": "Western South America",
+      "latitude": -15.7835,
+      "longitude": -70.6345,
+      "span": 15
+    }
+  },
+  {
+    "label": "Unknown",
+    "name": "Unknown",
+    "color": "gray",
+    "season": "none",
+    "sunlight": 0,
+    "water": 0,
+    "funfact": "Fun fact.",
+    "video": null,
+    "benefits": [
+      {
+        "symbol": "shield.fill",
+        "title": "Cancer Prevention",
+        "description": "Description."
+      }
+    ],
+    "origin": {
+      "place": "Place",
+      "latitude": 0,
+      "longitude": 0,
+      "span": 10
+    }
+  }
+]
