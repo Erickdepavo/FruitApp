@@ -337,7 +337,7 @@
     "sunlight": 5,
     "water": 4,
     "funfact": "Tomatoes are botanically a fruit, but they're legally considered a vegetable in the U.S. because of a Supreme Court decision in 1893.",
-    "video": null,
+    "video": "https://www.youtube.com/embed/muS3s500V_s",
     "benefits": [
       {
         "symbol": "shield.fill",
