@@ -25,7 +25,7 @@ struct FruitCollectionView: View {
                         spacing: 16
                     ) {
                         ForEach(progressTracker.allFruits) { fruit in
-                            let isFound = true//progressTracker.isFruitInCollection(fruit)
+                            let isFound = progressTracker.isFruitInCollection(fruit)
                             
                             Button(
                                 action: {
